@@ -1,0 +1,22 @@
+{
+  "name": "cm11",
+  "version": "0.0.1",
+  "description": "Module for controlling devices over X10.",
+  "dependencies": {
+    "serialport": "latest"
+  },
+  "main": "lib/cm11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "X10",
+    "CM11",
+    "automation",
+    "\"smart",
+    "home\""
+  ],
+  "author": "Matthew Voss",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
