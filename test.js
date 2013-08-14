@@ -7,7 +7,7 @@ cm11.on("open", function() {
         cm11.getStatus();
 
         unitOn();
-        unitOff();
+        //unitOff();
 
         // setTimeout(function() {
             // unitOn();
