@@ -8,20 +8,14 @@ cm11.on("open", function() {
 
         unitOn();
         unitOff();
-        unitOn();
-        unitOff();
-        unitOn();
-        unitOff();
-        unitOn();
-        unitOff();
 
         // setTimeout(function() {
             // unitOn();
         // }, 1000);
 });
 
-var house = x10.HOUSE.A;
-var unit = x10.UNIT.UNIT_13;
+var house = x10.HOUSE.G;
+var unit = x10.UNIT.UNIT_1;
 
 function unitOn() {
     console.log("sending on");
